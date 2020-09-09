@@ -1,5 +1,5 @@
 1. Coppy link ini
-https://api.glitch.com/git/west-foam-coffee
+https://github.com/Client-Developer-ID/music-bot-example.git
 2. buka https://glitch.com
 3. klik new project
 4. klik import from github
