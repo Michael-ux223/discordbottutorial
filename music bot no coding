@@ -1,7 +1,0 @@
-1. Coppy link ini
-https://api.glitch.com/git/west-foam-coffee
-2. buka https://glitch.com
-3. klik new project
-4. klik import from github
-5. paste url yang tadi saya kasih (https://api.glitch.com/git/west-foam-coffee)
-6. berikan token bot pada .env 
